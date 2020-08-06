@@ -11,4 +11,5 @@ else{
     a>b ? console.log(a) : console.log(b);
 
 max =  a>b ? a : b;
-console.log(max);
+console.log(max); 
+
